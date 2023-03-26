@@ -7,6 +7,8 @@ const jwt = require('jsonwebtoken');
 
 const User = require('../models/User');
 
+//hello
+
 // router.post("/resister",async(req,res)=>{
 //    console.log("data",req.body.username);
 // })
