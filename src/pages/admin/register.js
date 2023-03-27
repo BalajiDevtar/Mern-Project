@@ -1,8 +1,7 @@
 import {React,useState} from 'react'
 import { Link } from 'react-router-dom';
 import NavBar from '../../components/navnbar.component';
-import axios from "axios";
-
+import axios from 'path/to/axios';
 
 const Register = () => {
 
