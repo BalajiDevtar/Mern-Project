@@ -1,4 +1,12 @@
 {
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon sapp.js",
+    "client-install": "cd client && npm install",
+    "client": "cd client && npm start",
+    "server": "nodemon app.js",
+    "build": " npm run build"
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",

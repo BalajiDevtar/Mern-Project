@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 const NavBar = () => {
   return (
     //frontend
-    //navbar
+ 
     <div>
       <nav className="navbar navbar-expand-lg flex justify-content-between bg-body-tertiary border-primary">
   <div className="container-fluid ">
