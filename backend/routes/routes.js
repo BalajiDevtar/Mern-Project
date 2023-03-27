@@ -5,7 +5,7 @@ const usermodal = require("../models/User")
 const jwt = require('jsonwebtoken');
 
 
-const User = require('../models/User');
+
 
 //hello
 
